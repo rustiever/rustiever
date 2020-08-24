@@ -1,33 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sharan</h1>
+<h3 align="center">A passionate mobile app developer using Flutter from India, also loves backend development using Golang, Rust languages</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
 
-- 🔭 I’m currently working on project called Bridge
-- 🌱 I’m currently learning flutter and also everything which increases my curiosity
-- 👯 I’m looking to collaborate with other collaboraters
-- 🤔 I’m looking for help with riverpod(statemanagement for flutter)
-- 📫 How to reach me: simple, just ping me on email <sharanneeded@gmail.com> 
+- 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
+- 🌱 I’m currently learning **Flutter, Golang**
 
-### Languages and Tools:
+- 📫 How to reach me **sharanneeded@gmail.com**
 
-<img align="left" alt="Vim" width="50px" src="https://user-images.githubusercontent.com/60929919/89158026-22d86980-d58b-11ea-8103-6187ccc9bc46.gif" />
-<img align="left" alt="Neovim" height=20px width="50px" src="https://user-images.githubusercontent.com/60929919/89158021-210ea600-d58b-11ea-80ba-52b0e11913d7.png" />
-<img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&hide=html" alt="rustiever" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="CLI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-</br>
-</br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rustiever&count_private=true&theme=buefy&show_icons=true)](https://github.com/rustiever)
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact)](https://github.com/rustiever/)
