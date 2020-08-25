@@ -46,13 +46,13 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 270 Contributions in the Year 2020
+> 🏆 272 Contributions in the Year 2020
  > 
-> 📦 9.0 kB Used in Github's Storage 
+> 📦 9.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
