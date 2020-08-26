@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">A passionate mobile app developer using Flutter from India, also loves backend development using Golang, Rust languages</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
-
 * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
 * 🌱 I’m currently learning **Flutter, Golang**
@@ -47,6 +45,8 @@
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
