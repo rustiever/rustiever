@@ -44,9 +44,9 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -89,16 +89,20 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 40 mins       █████████████████████████   100.0%
+JavaScript               2 hrs 40 mins       ███████████████████████░░   93.32% 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
 
 🔥 Editors: 
-Vim                      2 hrs 40 mins       █████████████████████████   100.0%
+Vim                      2 hrs 40 mins       ███████████████████████░░   93.32% 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.68%
 
 🐱‍💻 Projects: 
-Bridge-backend           2 hrs 40 mins       █████████████████████████   100.0%
+Bridge-backend           2 hrs 40 mins       ███████████████████████░░   93.32% 
+rustiever                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.68%
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.0%
+Mac                      2 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
