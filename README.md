@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
-<h3 align="center">A passionate mobile app developer using Flutter from India, also loves backend development using Golang, Rust languages</h3>
+<h3 align="center">I am a computer science engineer and Full stack mobile developer👨‍💻. Interested in making life easier by creating utility tools</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
 
 * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
 * 🌱 I’m currently learning **Flutter, Golang**
 
 * 📫 How to reach me **sharanneeded@gmail.com**
+
+* ⚡ Available for Freelance projects/internship opportunities.
 
 # Languages and Tools
 
