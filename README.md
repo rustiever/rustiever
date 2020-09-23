@@ -49,6 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#622](https://github.com//jonataslaw/getx/issues/622) in [jonataslaw/getx](https://github.com//jonataslaw/getx)
+2. 🎉 Merged PR [#10](https://github.com//rustiever/TowardsLife/pull/10) in [rustiever/TowardsLife](https://github.com//rustiever/TowardsLife)
+3. 💪 Opened PR [#10](https://github.com//rustiever/TowardsLife/pull/10) in [rustiever/TowardsLife](https://github.com//rustiever/TowardsLife)
+4. 🎉 Merged PR [#9](https://github.com//rustiever/TowardsLife/pull/9) in [rustiever/TowardsLife](https://github.com//rustiever/TowardsLife)
+5. 💪 Opened PR [#9](https://github.com//rustiever/TowardsLife/pull/9) in [rustiever/TowardsLife](https://github.com//rustiever/TowardsLife)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
