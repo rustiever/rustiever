@@ -49,11 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Sha-Kumar/Knogram/issues/1) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
-2. ❗️ Closed issue [#1](https://github.com//Sha-Kumar/Knogram/issues/1) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
-3. 💪 Opened PR [#3](https://github.com//Sha-Kumar/Knogram/pull/3) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
-4. 🗣 Commented on [#622](https://github.com//jonataslaw/getx/issues/622) in [jonataslaw/getx](https://github.com//jonataslaw/getx)
-5. 🎉 Merged PR [#10](https://github.com//rustiever/TowardsLife/pull/10) in [rustiever/TowardsLife](https://github.com//rustiever/TowardsLife)
+1. 🎉 Merged PR [#28](https://github.com//rustiever/bridge/pull/28) in [rustiever/bridge](https://github.com//rustiever/bridge)
+2. 🗣 Commented on [#1](https://github.com//Sha-Kumar/Knogram/issues/1) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
+3. ❗️ Closed issue [#1](https://github.com//Sha-Kumar/Knogram/issues/1) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
+4. 💪 Opened PR [#3](https://github.com//Sha-Kumar/Knogram/pull/3) in [Sha-Kumar/Knogram](https://github.com//Sha-Kumar/Knogram)
+5. 🗣 Commented on [#622](https://github.com//jonataslaw/getx/issues/622) in [jonataslaw/getx](https://github.com//jonataslaw/getx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
