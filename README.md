@@ -49,11 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. 🗣 Commented on [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-3. ❗️ Closed issue [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. 🗣 Commented on [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-5. 🎉 Merged PR [#12](https://github.com/rustiever/TowardsLife/pull/12) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+1. ❗️ Opened issue [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
+2. ❗️ Closed issue [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+3. 🗣 Commented on [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+4. ❗️ Closed issue [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+5. 🗣 Commented on [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
