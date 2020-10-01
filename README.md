@@ -49,11 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
-2. ❗️ Closed issue [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-3. 🗣 Commented on [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. ❗️ Closed issue [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-5. 🗣 Commented on [#7](https://github.com/rustiever/TowardsLife/issues/7) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+1. ❗️ Opened issue [#60](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/60) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+2. 🗣 Commented on [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+3. ❗️ Opened issue [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+4. ❗️ Opened issue [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
+5. ❗️ Closed issue [#14](https://github.com/rustiever/TowardsLife/issues/14) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
