@@ -50,10 +50,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
-2. 💪 Opened PR [#4](https://github.com/Sha-Kumar/Knogram/pull/4) in [Sha-Kumar/Knogram](https://github.com/Sha-Kumar/Knogram)
-3. 💪 Opened PR [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/pull/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
-4. ❗️ Opened issue [#60](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/60) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
-5. 🗣 Commented on [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+2. 🗣 Commented on [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+3. 🗣 Commented on [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+4. 💪 Opened PR [#4](https://github.com/Sha-Kumar/Knogram/pull/4) in [Sha-Kumar/Knogram](https://github.com/Sha-Kumar/Knogram)
+5. 💪 Opened PR [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/pull/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
