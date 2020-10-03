@@ -50,10 +50,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-2. 🗣 Commented on [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
-3. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-4. 🗣 Commented on [#59](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/59) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
-5. 🗣 Commented on [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/issues/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+2. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+3. 💪 Opened PR [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+5. 🗣 Commented on [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
