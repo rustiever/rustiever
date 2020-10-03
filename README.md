@@ -49,11 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-5. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+1. 🗣 Commented on [#2](https://github.com/rustiever/Hello-World/issues/2) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🗣 Commented on [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🗣 Commented on [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
