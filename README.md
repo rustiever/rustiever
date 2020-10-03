@@ -49,11 +49,11 @@
   <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-2. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-3. 💪 Opened PR [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-5. 🗣 Commented on [#7](https://github.com/kauemurakami/getx_pattern/issues/7) in [kauemurakami/getx_pattern](https://github.com/kauemurakami/getx_pattern)
+1. ❗️ Opened issue [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+3. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+4. 💪 Opened PR [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+5. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
