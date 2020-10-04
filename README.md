@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-2. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-3. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-5. 💪 Opened PR [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+1. ❗️ Opened issue [#9](https://github.com/rustiever/Hello-World/issues/9) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🎉 Merged PR [#4](https://github.com/rustiever/Hello-World/pull/4) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#6](https://github.com/rustiever/Hello-World/pull/6) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🎉 Merged PR [#5](https://github.com/rustiever/Hello-World/pull/5) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🗣 Commented on [#1](https://github.com/rustiever/Hello-World/issues/1) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
