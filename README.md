@@ -1,8 +1,8 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">I am a final year computer science engineer and Full stack mobile developer👨‍💻. Interested in making life easier by creating utility tools</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
 
 <!-- * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
@@ -43,18 +43,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </p>
-  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&hide=html" alt="rustiever" /></p>
 
-  <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true" alt="rustiever" /></p>
+[![Rustiever's github stats](https://github-readme-stats.vercel.app/api?username=rustiever&theme=algolia&count_private=true&show_icons=true)](https://github.com/rustiever/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&langs_count=10&theme=algolia)](https://github.com/rustiever/)
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-2. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-3. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-5. 💪 Opened PR [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
-<!--END_SECTION:activity-->
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
@@ -140,3 +133,12 @@ C++                      1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+### Recent Activity on Github
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+2. 🗣 Commented on [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+3. 🗣 Commented on [#8](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/8) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+4. 🗣 Commented on [#4](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/issues/4) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+5. 💪 Opened PR [#9](https://github.com/AndreVarandas/dart-fortnite-api-wrapper/pull/9) in [AndreVarandas/dart-fortnite-api-wrapper](https://github.com/AndreVarandas/dart-fortnite-api-wrapper)
+<!--END_SECTION:activity-->
