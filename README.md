@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/rustiever/Hello-World/pull/17) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🗣 Commented on [#17](https://github.com/rustiever/Hello-World/issues/17) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🎉 Merged PR [#15](https://github.com/rustiever/Hello-World/pull/15) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🗣 Commented on [#11](https://github.com/rustiever/Hello-World/issues/11) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Closed issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🗣 Commented on [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#18](https://github.com/rustiever/Hello-World/pull/18) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🎉 Merged PR [#17](https://github.com/rustiever/Hello-World/pull/17) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🗣 Commented on [#17](https://github.com/rustiever/Hello-World/issues/17) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
