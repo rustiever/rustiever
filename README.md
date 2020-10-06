@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rustiever/walktron/pull/1) in [rustiever/walktron](https://github.com/rustiever/walktron)
-2. ❗️ Closed issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🗣 Commented on [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🎉 Merged PR [#18](https://github.com/rustiever/Hello-World/pull/18) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🎉 Merged PR [#17](https://github.com/rustiever/Hello-World/pull/17) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#20](https://github.com/rustiever/Hello-World/issues/20) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#19](https://github.com/rustiever/Hello-World/issues/19) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#1](https://github.com/rustiever/walktron/pull/1) in [rustiever/walktron](https://github.com/rustiever/walktron)
+4. ❗️ Closed issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🗣 Commented on [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
