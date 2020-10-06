@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/rustiever/Hello-World/issues/20) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#19](https://github.com/rustiever/Hello-World/issues/19) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🎉 Merged PR [#1](https://github.com/rustiever/walktron/pull/1) in [rustiever/walktron](https://github.com/rustiever/walktron)
-4. ❗️ Closed issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🗣 Commented on [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. 💪 Opened PR [#1](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/1) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+2. ❗️ Opened issue [#20](https://github.com/rustiever/Hello-World/issues/20) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#19](https://github.com/rustiever/Hello-World/issues/19) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🎉 Merged PR [#1](https://github.com/rustiever/walktron/pull/1) in [rustiever/walktron](https://github.com/rustiever/walktron)
+5. ❗️ Closed issue [#16](https://github.com/rustiever/Hello-World/issues/16) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
