@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
-2. 💪 Opened PR [#1](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/1) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-3. ❗️ Opened issue [#20](https://github.com/rustiever/Hello-World/issues/20) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#19](https://github.com/rustiever/Hello-World/issues/19) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🎉 Merged PR [#1](https://github.com/rustiever/walktron/pull/1) in [rustiever/walktron](https://github.com/rustiever/walktron)
+1. ❗️ Opened issue [#21](https://github.com/rustiever/Hello-World/issues/21) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
+3. 💪 Opened PR [#1](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/1) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+4. ❗️ Opened issue [#20](https://github.com/rustiever/Hello-World/issues/20) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#19](https://github.com/rustiever/Hello-World/issues/19) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
