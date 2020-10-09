@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rustiever/TowardsLife/pull/15) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. 🎉 Merged PR [#13](https://github.com/rustiever/TowardsLife/pull/13) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-3. ❗️ Opened issue [#21](https://github.com/rustiever/Hello-World/issues/21) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
-5. 💪 Opened PR [#1](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/1) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. ❗️ Opened issue [#67737](https://github.com/flutter/flutter/issues/67737) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🎉 Merged PR [#15](https://github.com/rustiever/TowardsLife/pull/15) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+3. 🎉 Merged PR [#13](https://github.com/rustiever/TowardsLife/pull/13) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+4. ❗️ Opened issue [#21](https://github.com/rustiever/Hello-World/issues/21) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
 <!--END_SECTION:activity-->
