@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/rustiever/Hello-World/pull/22) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#20](https://github.com/jonataslaw/get_cli/issues/20) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
-3. 🗣 Commented on [#16](https://github.com/rustiever/TowardsLife/issues/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. ❗️ Opened issue [#67737](https://github.com/flutter/flutter/issues/67737) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🎉 Merged PR [#15](https://github.com/rustiever/TowardsLife/pull/15) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+1. 🗣 Commented on [#20](https://github.com/jonataslaw/get_cli/issues/20) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+2. 🎉 Merged PR [#22](https://github.com/rustiever/Hello-World/pull/22) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#20](https://github.com/jonataslaw/get_cli/issues/20) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+4. 🗣 Commented on [#16](https://github.com/rustiever/TowardsLife/issues/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+5. ❗️ Opened issue [#67737](https://github.com/flutter/flutter/issues/67737) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
