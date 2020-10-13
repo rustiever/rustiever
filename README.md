@@ -136,9 +136,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2185](https://github.com/cli/cli/issues/2185) in [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-3. ❗️ Opened issue [#53](https://github.com/X-Wei/flutter_catalog/issues/53) in [X-Wei/flutter_catalog](https://github.com/X-Wei/flutter_catalog)
-4. 🗣 Commented on [#20](https://github.com/jonataslaw/get_cli/issues/20) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
-5. 🎉 Merged PR [#22](https://github.com/rustiever/Hello-World/pull/22) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#25](https://github.com/jonataslaw/get_cli/issues/25) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+2. ❗️ Opened issue [#2185](https://github.com/cli/cli/issues/2185) in [cli/cli](https://github.com/cli/cli)
+3. ❗️ Opened issue [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+4. ❗️ Opened issue [#53](https://github.com/X-Wei/flutter_catalog/issues/53) in [X-Wei/flutter_catalog](https://github.com/X-Wei/flutter_catalog)
+5. 🗣 Commented on [#20](https://github.com/jonataslaw/get_cli/issues/20) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
 <!--END_SECTION:activity-->
