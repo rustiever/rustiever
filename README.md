@@ -136,9 +136,9 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/rustiever/Hello-World/issues/24) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🗣 Commented on [#25](https://github.com/jonataslaw/get_cli/issues/25) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
-3. ❗️ Opened issue [#25](https://github.com/jonataslaw/get_cli/issues/25) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
-4. ❗️ Opened issue [#2185](https://github.com/cli/cli/issues/2185) in [cli/cli](https://github.com/cli/cli)
-5. ❗️ Opened issue [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. 🎉 Merged PR [#23](https://github.com/rustiever/Hello-World/pull/23) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Closed issue [#24](https://github.com/rustiever/Hello-World/issues/24) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🗣 Commented on [#24](https://github.com/rustiever/Hello-World/issues/24) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#24](https://github.com/rustiever/Hello-World/issues/24) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🗣 Commented on [#25](https://github.com/jonataslaw/get_cli/issues/25) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
 <!--END_SECTION:activity-->
