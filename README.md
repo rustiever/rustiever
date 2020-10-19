@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">I am a final year computer science engineer and Full stack mobile developer👨‍💻. Interested in making life easier by creating utility tools</h3>
 
-<style>
-div.relative {
-  position: relative;
-  width: 400px;
-  height: 200px;
-  border: 3px solid #73AD21;
-} 
-
-div.absolute {
-  position: absolute;
-  top: 80px;
-  right: 0;
-  width: 200px;
-  height: 100px;
-  border: 3px solid #73AD21;
-}
-</style>
-
 <!-- * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
 * 🌱 I’m currently learning **Flutter, Golang**
