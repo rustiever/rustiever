@@ -1,8 +1,23 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rustiever" alt="rustiever" /> </p>
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">I am a final year computer science engineer and Full stack mobile developer👨‍💻. Interested in making life easier by creating utility tools</h3>
 
+<style>
+div.relative {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid #73AD21;
+} 
 
+div.absolute {
+  position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #73AD21;
+}
+</style>
 
 <!-- * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
 
@@ -46,8 +61,6 @@
 
 [![Rustiever's github stats](https://github-readme-stats.vercel.app/api?username=rustiever&theme=algolia&count_private=true&show_icons=true)](https://github.com/rustiever/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&langs_count=10&theme=algolia)](https://github.com/rustiever/)
-
-
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
