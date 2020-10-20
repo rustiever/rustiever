@@ -82,9 +82,9 @@ Mac                      4 hrs 55 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4318](https://github.com/alacritty/alacritty/issues/4318) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-2. ❗️ Opened issue [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🗣 Commented on [#32](https://github.com/rustiever/Hello-World/issues/32) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🎉 Merged PR [#33](https://github.com/rustiever/Hello-World/pull/33) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Closed issue [#28](https://github.com/rustiever/Hello-World/issues/28) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. 💪 Opened PR [#3](https://github.com/Sha-Kumar/WebLab/pull/3) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
+2. ❗️ Opened issue [#4318](https://github.com/alacritty/alacritty/issues/4318) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+3. ❗️ Opened issue [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🗣 Commented on [#32](https://github.com/rustiever/Hello-World/issues/32) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🎉 Merged PR [#33](https://github.com/rustiever/Hello-World/pull/33) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
