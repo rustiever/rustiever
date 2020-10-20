@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&langs_count=10&theme=algolia)](https://github.com/rustiever/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -65,11 +65,11 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        ████████████░░░░░░░░░░░░░   51.48% 
-Vim                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.52%
+VS Code                  3 hrs 21 mins       █████████████████░░░░░░░░   68.3% 
+Vim                      1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   31.7%
 
 💻 Operating System: 
-Mac                      3 hrs 28 mins       █████████████████████████   100.0%
+Mac                      4 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
