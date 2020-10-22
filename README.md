@@ -82,9 +82,9 @@ Mac                      6 hrs 51 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/rustiever/TowardsLife/pull/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. 💪 Opened PR [#4](https://github.com/Sha-Kumar/WebLab/pull/4) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
-3. 💪 Opened PR [#3](https://github.com/Sha-Kumar/WebLab/pull/3) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
-4. ❗️ Opened issue [#4318](https://github.com/alacritty/alacritty/issues/4318) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-5. ❗️ Opened issue [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
+2. 🎉 Merged PR [#16](https://github.com/rustiever/TowardsLife/pull/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+3. 💪 Opened PR [#4](https://github.com/Sha-Kumar/WebLab/pull/4) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
+4. 💪 Opened PR [#3](https://github.com/Sha-Kumar/WebLab/pull/3) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
+5. ❗️ Opened issue [#4318](https://github.com/alacritty/alacritty/issues/4318) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 <!--END_SECTION:activity-->
