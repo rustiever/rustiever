@@ -82,9 +82,9 @@ Mac                      8 hrs 28 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/rustiever/TowardsLife/pull/17) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. ❗️ Opened issue [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
-3. 🎉 Merged PR [#16](https://github.com/rustiever/TowardsLife/pull/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. 💪 Opened PR [#4](https://github.com/Sha-Kumar/WebLab/pull/4) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
-5. 💪 Opened PR [#3](https://github.com/Sha-Kumar/WebLab/pull/3) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
+1. 🗣 Commented on [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
+2. 🎉 Merged PR [#17](https://github.com/rustiever/TowardsLife/pull/17) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+3. ❗️ Opened issue [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
+4. 🎉 Merged PR [#16](https://github.com/rustiever/TowardsLife/pull/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+5. 💪 Opened PR [#4](https://github.com/Sha-Kumar/WebLab/pull/4) in [Sha-Kumar/WebLab](https://github.com/Sha-Kumar/WebLab)
 <!--END_SECTION:activity-->
