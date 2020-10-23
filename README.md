@@ -82,9 +82,9 @@ Mac                      8 hrs 28 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🗣 Commented on [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
-3. 🎉 Merged PR [#17](https://github.com/rustiever/TowardsLife/pull/17) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. ❗️ Opened issue [#2254](https://github.com/cli/cli/issues/2254) in [cli/cli](https://github.com/cli/cli)
-5. 🎉 Merged PR [#16](https://github.com/rustiever/TowardsLife/pull/16) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+1. 🗣 Commented on [#25](https://github.com/jonataslaw/get_cli/issues/25) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+2. 🗣 Commented on [#35](https://github.com/rustiever/Hello-World/issues/35) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#33](https://github.com/jonataslaw/get_cli/issues/33) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+4. 💪 Opened PR [#32](https://github.com/jonataslaw/get_cli/pull/32) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+5. 🗣 Commented on [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
