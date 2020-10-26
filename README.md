@@ -82,9 +82,9 @@ Mac                      12 hrs 18 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/rustiever/Hello-World/pull/38) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🎉 Merged PR [#36](https://github.com/rustiever/Hello-World/pull/36) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Closed issue [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🎉 Merged PR [#35](https://github.com/rustiever/Hello-World/pull/35) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#62](https://github.com/unblevable/quick-scope/issues/62) in [unblevable/quick-scope](https://github.com/unblevable/quick-scope)
+1. ❌ Closed PR [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/pull/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+2. 🎉 Merged PR [#38](https://github.com/rustiever/Hello-World/pull/38) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#36](https://github.com/rustiever/Hello-World/pull/36) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Closed issue [#34](https://github.com/rustiever/Hello-World/issues/34) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🎉 Merged PR [#35](https://github.com/rustiever/Hello-World/pull/35) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
