@@ -82,9 +82,9 @@ Mac                      12 hrs 19 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-2. 🗣 Commented on [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-3. 🗣 Commented on [#3](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/3) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-4. 💪 Opened PR [#3](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/3) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-5. ❌ Closed PR [#74](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms/pull/74) in [hacktoberfest2k20/DataStructures-and-Algorithms](https://github.com/hacktoberfest2k20/DataStructures-and-Algorithms)
+1. ❗️ Opened issue [#4](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/4) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+2. ❗️ Closed issue [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+3. 🗣 Commented on [#2](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/2) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+4. 🗣 Commented on [#3](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/3) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+5. 💪 Opened PR [#3](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/3) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
 <!--END_SECTION:activity-->
