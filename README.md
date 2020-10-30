@@ -82,9 +82,9 @@ Mac                      11 hrs 54 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-2. 💪 Opened PR [#5](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/5) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-3. 🎉 Merged PR [#41](https://github.com/rustiever/Hello-World/pull/41) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🎉 Merged PR [#40](https://github.com/rustiever/Hello-World/pull/40) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#4](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/4) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. 🎉 Merged PR [#43](https://github.com/rustiever/Hello-World/pull/43) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 💪 Opened PR [#43](https://github.com/rustiever/Hello-World/pull/43) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#42](https://github.com/rustiever/Hello-World/pull/42) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+5. 💪 Opened PR [#5](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/5) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
 <!--END_SECTION:activity-->
