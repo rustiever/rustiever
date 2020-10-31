@@ -82,9 +82,9 @@ Mac                      11 hrs 29 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-2. 🗣 Commented on [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-3. 🎉 Merged PR [#43](https://github.com/rustiever/Hello-World/pull/43) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 💪 Opened PR [#43](https://github.com/rustiever/Hello-World/pull/43) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🎉 Merged PR [#42](https://github.com/rustiever/Hello-World/pull/42) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#44](https://github.com/rustiever/Hello-World/issues/44) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 💪 Opened PR [#7](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/7) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+3. ❗️ Closed issue [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+4. 🗣 Commented on [#6](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/6) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+5. 🎉 Merged PR [#43](https://github.com/rustiever/Hello-World/pull/43) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
