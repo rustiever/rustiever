@@ -45,13 +45,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&langs_count=10&theme=algolia)](https://github.com/rustiever/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 617 Contributions in the Year 2020
+> 🏆 620 Contributions in the Year 2020
  > 
-> 📦 24.0 kB Used in Github's Storage 
+> 📦 24.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -65,10 +65,10 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  10 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 14 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      10 hrs 38 mins      █████████████████████████   100.0%
+Mac                      10 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
