@@ -81,9 +81,9 @@ Mac                      9 hrs 7 mins        ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/8) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-2. ❗️ Closed issue [#49](https://github.com/rustiever/Hello-World/issues/49) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Closed issue [#46](https://github.com/rustiever/Hello-World/issues/46) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🗣 Commented on [#46](https://github.com/rustiever/Hello-World/issues/46) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#49](https://github.com/rustiever/Hello-World/issues/49) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#3](https://github.com/rustiever/walktron/issues/3) in [rustiever/walktron](https://github.com/rustiever/walktron)
+2. 🗣 Commented on [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
+3. ❗️ Opened issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
+4. 🗣 Commented on [#8](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/8) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+5. ❗️ Closed issue [#49](https://github.com/rustiever/Hello-World/issues/49) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
