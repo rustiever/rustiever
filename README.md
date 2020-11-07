@@ -71,12 +71,6 @@ VS Code                  9 hrs 8 mins        ███████████�
 Mac                      9 hrs 8 mins        █████████████████████████   100.0%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://github.com/rustiever/rustiever/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 ### Recent Activity on Github
