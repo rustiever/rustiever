@@ -81,9 +81,9 @@ Mac                      9 hrs 39 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/jonataslaw/get_cli/issues/35) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
-2. ❗️ Opened issue [#3](https://github.com/rustiever/walktron/issues/3) in [rustiever/walktron](https://github.com/rustiever/walktron)
-3. 🗣 Commented on [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
-4. ❗️ Opened issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
-5. 🗣 Commented on [#8](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/8) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. ❗️ Opened issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
+2. ❗️ Opened issue [#35](https://github.com/jonataslaw/get_cli/issues/35) in [jonataslaw/get_cli](https://github.com/jonataslaw/get_cli)
+3. ❗️ Opened issue [#3](https://github.com/rustiever/walktron/issues/3) in [rustiever/walktron](https://github.com/rustiever/walktron)
+4. 🗣 Commented on [#2](https://github.com/rustiever/walktron/issues/2) in [rustiever/walktron](https://github.com/rustiever/walktron)
+5. ❗️ Opened issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
 <!--END_SECTION:activity-->
