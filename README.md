@@ -81,9 +81,9 @@ Mac                      14 hrs 3 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
+1. ❗️ Closed issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
 2. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
-3. ❗️ Opened issue [#5605](https://github.com/VSCodeVim/Vim/issues/5605) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+3. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
 4. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
-5. ❗️ Opened issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
+5. ❗️ Opened issue [#5605](https://github.com/VSCodeVim/Vim/issues/5605) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
 <!--END_SECTION:activity-->
