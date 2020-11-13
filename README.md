@@ -49,9 +49,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 660 Contributions in the Year 2020
+> 🏆 662 Contributions in the Year 2020
  > 
-> 📦 24.3 kB Used in Github's Storage 
+> 📦 24.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -65,10 +65,10 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  17 hrs 10 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 10 mins      █████████████████████████   100.0%
+Mac                      20 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
