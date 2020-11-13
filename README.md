@@ -77,9 +77,9 @@ Mac                      20 hrs 12 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/rustiever/TowardsLife/pull/19) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. ❗️ Closed issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
-3. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
+1. ❗️ Opened issue [#5](https://github.com/Sha-Kumar/UI_House/issues/5) in [Sha-Kumar/UI_House](https://github.com/Sha-Kumar/UI_House)
+2. 🎉 Merged PR [#19](https://github.com/rustiever/TowardsLife/pull/19) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+3. ❗️ Closed issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
 4. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
 5. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
 <!--END_SECTION:activity-->
