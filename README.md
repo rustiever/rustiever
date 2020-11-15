@@ -77,9 +77,9 @@ Mac                      19 hrs 46 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/rustiever/Hello-World/pull/50) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#5](https://github.com/Sha-Kumar/UI_House/issues/5) in [Sha-Kumar/UI_House](https://github.com/Sha-Kumar/UI_House)
-3. 🎉 Merged PR [#19](https://github.com/rustiever/TowardsLife/pull/19) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-4. ❗️ Closed issue [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
-5. 🗣 Commented on [#18](https://github.com/deakjahn/flutter_dropzone/issues/18) in [deakjahn/flutter_dropzone](https://github.com/deakjahn/flutter_dropzone)
+1. ❗️ Opened issue [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
+2. ❗️ Closed issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
+3. 🗣 Commented on [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
+4. 🎉 Merged PR [#50](https://github.com/rustiever/Hello-World/pull/50) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#5](https://github.com/Sha-Kumar/UI_House/issues/5) in [Sha-Kumar/UI_House](https://github.com/Sha-Kumar/UI_House)
 <!--END_SECTION:activity-->
