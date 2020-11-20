@@ -77,9 +77,9 @@ Mac                      26 hrs 18 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
-2. ❗️ Closed issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
-3. 🗣 Commented on [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
-4. 🎉 Merged PR [#50](https://github.com/rustiever/Hello-World/pull/50) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#5](https://github.com/Sha-Kumar/UI_House/issues/5) in [Sha-Kumar/UI_House](https://github.com/Sha-Kumar/UI_House)
+1. 💪 Opened PR [#10](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/10) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+2. ❗️ Opened issue [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
+3. ❗️ Closed issue [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
+4. 🗣 Commented on [#1](https://github.com/rustiever/wizard/issues/1) in [rustiever/wizard](https://github.com/rustiever/wizard)
+5. 🎉 Merged PR [#50](https://github.com/rustiever/Hello-World/pull/50) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
