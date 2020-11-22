@@ -77,9 +77,9 @@ Mac                      30 hrs 46 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/rustiever/Hello-World/issues/48) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🎉 Merged PR [#51](https://github.com/rustiever/Hello-World/pull/51) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Closed issue [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
-4. 🗣 Commented on [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
-5. 🗣 Commented on [#20](https://github.com/rustiever/TowardsLife/issues/20) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+1. ❗️ Opened issue [#52](https://github.com/rustiever/Hello-World/issues/52) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Closed issue [#48](https://github.com/rustiever/Hello-World/issues/48) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🎉 Merged PR [#51](https://github.com/rustiever/Hello-World/pull/51) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Closed issue [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
+5. 🗣 Commented on [#2](https://github.com/rustiever/wizard/issues/2) in [rustiever/wizard](https://github.com/rustiever/wizard)
 <!--END_SECTION:activity-->
