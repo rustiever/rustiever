@@ -75,9 +75,9 @@ Mac                      9 hrs 49 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/rustiever/Hello-World/issues/58) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#57](https://github.com/rustiever/Hello-World/issues/57) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#56](https://github.com/rustiever/Hello-World/issues/56) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#13](https://github.com/Sha-Kumar/Decision_Tree_Generator/issues/13) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. 🎉 Merged PR [#53](https://github.com/rustiever/Hello-World/pull/53) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#58](https://github.com/rustiever/Hello-World/issues/58) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#57](https://github.com/rustiever/Hello-World/issues/57) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#56](https://github.com/rustiever/Hello-World/issues/56) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
