@@ -65,10 +65,10 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
