@@ -77,9 +77,9 @@ Mac                      2 hrs 18 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/rustiever/Hello-World/issues/64) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#63](https://github.com/rustiever/Hello-World/issues/63) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Reopened issue [#61](https://github.com/rustiever/Hello-World/issues/61) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Closed issue [#61](https://github.com/rustiever/Hello-World/issues/61) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#62](https://github.com/rustiever/Hello-World/issues/62) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#65](https://github.com/rustiever/Hello-World/issues/65) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#64](https://github.com/rustiever/Hello-World/issues/64) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#63](https://github.com/rustiever/Hello-World/issues/63) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Reopened issue [#61](https://github.com/rustiever/Hello-World/issues/61) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Closed issue [#61](https://github.com/rustiever/Hello-World/issues/61) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
