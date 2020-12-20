@@ -77,9 +77,9 @@ Mac                      6 hrs 52 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/rustiever/TowardsLife/issues/22) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-2. ❗️ Opened issue [#68](https://github.com/rustiever/Hello-World/issues/68) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#67](https://github.com/rustiever/Hello-World/issues/67) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Closed issue [#21](https://github.com/rustiever/Hello-World/issues/21) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#66](https://github.com/rustiever/Hello-World/issues/66) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Closed issue [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🗣 Commented on [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#22](https://github.com/rustiever/TowardsLife/issues/22) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+4. ❗️ Opened issue [#68](https://github.com/rustiever/Hello-World/issues/68) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#67](https://github.com/rustiever/Hello-World/issues/67) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
