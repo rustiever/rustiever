@@ -77,9 +77,9 @@ Mac                      6 hrs 6 mins        ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
-2. ❗️ Closed issue [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🗣 Commented on [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#22](https://github.com/rustiever/TowardsLife/issues/22) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-5. ❗️ Opened issue [#68](https://github.com/rustiever/Hello-World/issues/68) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+2. ❗️ Opened issue [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+3. ❗️ Closed issue [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🗣 Commented on [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#22](https://github.com/rustiever/TowardsLife/issues/22) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
 <!--END_SECTION:activity-->
