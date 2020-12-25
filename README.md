@@ -77,9 +77,9 @@ Mac                      9 hrs 21 mins       ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+1. 💪 Opened PR [#15](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/15) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
 2. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
-3. ❗️ Opened issue [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
-4. ❗️ Closed issue [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🗣 Commented on [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+4. ❗️ Opened issue [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+5. ❗️ Closed issue [#54](https://github.com/rustiever/Hello-World/issues/54) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
