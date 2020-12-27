@@ -77,9 +77,9 @@ Mac                      13 hrs 25 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🗣 Commented on [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 💪 Opened PR [#15](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/15) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
-4. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+1. ❗️ Closed issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Closed issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🗣 Commented on [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 💪 Opened PR [#15](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/15) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
 5. 🗣 Commented on [#8](https://github.com/adelarsq/neoline.vim/issues/8) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
 <!--END_SECTION:activity-->
