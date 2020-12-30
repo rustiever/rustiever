@@ -77,9 +77,9 @@ Mac                      17 hrs 13 mins      ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#143](https://github.com/rbcprolabs/packages.flutter/issues/143) in [rbcprolabs/packages.flutter](https://github.com/rbcprolabs/packages.flutter)
-2. ❗️ Closed issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Closed issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. 🗣 Commented on [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 💪 Opened PR [#15](https://github.com/Sha-Kumar/Decision_Tree_Generator/pull/15) in [Sha-Kumar/Decision_Tree_Generator](https://github.com/Sha-Kumar/Decision_Tree_Generator)
+1. ❗️ Opened issue [#69](https://github.com/rustiever/Hello-World/issues/69) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#143](https://github.com/rbcprolabs/packages.flutter/issues/143) in [rbcprolabs/packages.flutter](https://github.com/rbcprolabs/packages.flutter)
+3. ❗️ Closed issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Closed issue [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. 🗣 Commented on [#3](https://github.com/rustiever/Hello-World/issues/3) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
