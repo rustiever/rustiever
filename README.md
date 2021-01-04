@@ -77,9 +77,9 @@ Mac                      4 hrs 2 mins        ███████████�
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#57](https://github.com/rustiever/Hello-World/issues/57) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🎉 Merged PR [#21](https://github.com/rustiever/TowardsLife/pull/21) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
-3. ❗️ Opened issue [#69](https://github.com/rustiever/Hello-World/issues/69) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#143](https://github.com/rbcprolabs/packages.flutter/issues/143) in [rbcprolabs/packages.flutter](https://github.com/rbcprolabs/packages.flutter)
-5. ❗️ Closed issue [#55](https://github.com/rustiever/Hello-World/issues/55) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#10](https://github.com/adelarsq/neoline.vim/issues/10) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+2. ❗️ Opened issue [#9](https://github.com/adelarsq/neoline.vim/issues/9) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+3. ❗️ Closed issue [#57](https://github.com/rustiever/Hello-World/issues/57) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🎉 Merged PR [#21](https://github.com/rustiever/TowardsLife/pull/21) in [rustiever/TowardsLife](https://github.com/rustiever/TowardsLife)
+5. ❗️ Opened issue [#69](https://github.com/rustiever/Hello-World/issues/69) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
