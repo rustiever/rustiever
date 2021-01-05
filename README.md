@@ -49,7 +49,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 6 Contributions in the Year 2021
+> 🏆 8 Contributions in the Year 2021
  > 
 > 📦 25.7 kB Used in Github's Storage 
  > 
@@ -59,19 +59,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-VS Code                  4 hrs 2 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      4 hrs 2 mins        █████████████████████████   100.0%
-
-```
-
 
 <!--END_SECTION:waka-->
 
