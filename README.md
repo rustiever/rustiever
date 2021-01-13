@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#73](https://github.com/rustiever/Hello-World/issues/73) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Opened issue [#72](https://github.com/rustiever/Hello-World/issues/72) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#11](https://github.com/adelarsq/neoline.vim/issues/11) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
-4. ❗️ Opened issue [#71](https://github.com/rustiever/Hello-World/issues/71) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#70](https://github.com/rustiever/Hello-World/issues/70) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#74](https://github.com/rustiever/Hello-World/issues/74) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#73](https://github.com/rustiever/Hello-World/issues/73) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Opened issue [#72](https://github.com/rustiever/Hello-World/issues/72) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#11](https://github.com/adelarsq/neoline.vim/issues/11) in [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim)
+5. ❗️ Opened issue [#71](https://github.com/rustiever/Hello-World/issues/71) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
