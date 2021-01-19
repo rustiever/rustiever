@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/rustiever/Hello-World/issues/79) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. ❗️ Closed issue [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 🗣 Commented on [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#78](https://github.com/rustiever/Hello-World/issues/78) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. ❗️ Opened issue [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#80](https://github.com/rustiever/Hello-World/issues/80) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Opened issue [#79](https://github.com/rustiever/Hello-World/issues/79) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. ❗️ Closed issue [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. 🗣 Commented on [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#78](https://github.com/rustiever/Hello-World/issues/78) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
