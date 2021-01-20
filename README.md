@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-2. ❗️ Opened issue [#80](https://github.com/rustiever/Hello-World/issues/80) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#79](https://github.com/rustiever/Hello-World/issues/79) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Closed issue [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-5. 🗣 Commented on [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+2. ❗️ Opened issue [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+3. ❗️ Opened issue [#80](https://github.com/rustiever/Hello-World/issues/80) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#79](https://github.com/rustiever/Hello-World/issues/79) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Closed issue [#77](https://github.com/rustiever/Hello-World/issues/77) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
 <!--END_SECTION:activity-->
