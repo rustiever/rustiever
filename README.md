@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/34) in [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
-2. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. ❗️ Opened issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+2. ❗️ Opened issue [#34](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/34) in [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 3. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 4. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-5. ❗️ Closed issue [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+5. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 <!--END_SECTION:activity-->
