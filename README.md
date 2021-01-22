@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-2. ❗️ Opened issue [#336](https://github.com/nvim-lua/completion-nvim/issues/336) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-3. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+1. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+2. ❗️ Opened issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+3. ❗️ Opened issue [#336](https://github.com/nvim-lua/completion-nvim/issues/336) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
 4. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 5. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 <!--END_SECTION:activity-->
