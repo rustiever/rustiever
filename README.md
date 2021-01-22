@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+1. ❗️ Opened issue [#336](https://github.com/nvim-lua/completion-nvim/issues/336) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
 2. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 3. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-4. ❗️ Opened issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-5. ❗️ Opened issue [#34](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/34) in [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
+4. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+5. ❗️ Opened issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 <!--END_SECTION:activity-->
