@@ -66,7 +66,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 2. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-3. ❗️ Opened issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-4. ❗️ Opened issue [#34](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/34) in [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
-5. 🗣 Commented on [#170](https://github.com/wbthomason/packer.nvim/issues/170) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+3. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+4. ❗️ Opened issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+5. ❗️ Opened issue [#34](https://github.com/nvim-treesitter/nvim-treesitter-textobjects/issues/34) in [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 <!--END_SECTION:activity-->
