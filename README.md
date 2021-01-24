@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/rustiever/Hello-World/issues/81) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-3. ❗️ Opened issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-4. ❗️ Opened issue [#336](https://github.com/nvim-lua/completion-nvim/issues/336) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-5. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+1. ❗️ Opened issue [#37](https://github.com/kyazdani42/nvim-web-devicons/issues/37) in [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+2. ❗️ Opened issue [#81](https://github.com/rustiever/Hello-World/issues/81) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+4. ❗️ Opened issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+5. ❗️ Opened issue [#336](https://github.com/nvim-lua/completion-nvim/issues/336) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
 <!--END_SECTION:activity-->
