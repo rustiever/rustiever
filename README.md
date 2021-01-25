@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-2. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-3. ❗️ Opened issue [#81](https://github.com/glepnir/galaxyline.nvim/issues/81) in [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim)
-4. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-5. ❗️ Closed issue [#58](https://github.com/rustiever/Hello-World/issues/58) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#82](https://github.com/rustiever/Hello-World/issues/82) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. ❗️ Closed issue [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+3. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+4. ❗️ Opened issue [#81](https://github.com/glepnir/galaxyline.nvim/issues/81) in [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim)
+5. 🗣 Commented on [#163](https://github.com/hrsh7th/vim-vsnip/issues/163) in [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 <!--END_SECTION:activity-->
