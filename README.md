@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-2. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-3. ❗️ Opened issue [#83](https://github.com/rustiever/Hello-World/issues/83) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#72](https://github.com/hrsh7th/nvim-compe/issues/72) in [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe)
-5. ❗️ Opened issue [#82](https://github.com/rustiever/Hello-World/issues/82) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+1. ❗️ Opened issue [#476](https://github.com/nvim-telescope/telescope.nvim/issues/476) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+2. ❗️ Closed issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+3. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+4. ❗️ Opened issue [#83](https://github.com/rustiever/Hello-World/issues/83) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+5. ❗️ Opened issue [#72](https://github.com/hrsh7th/nvim-compe/issues/72) in [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe)
 <!--END_SECTION:activity-->
