@@ -64,9 +64,9 @@
 
 ### Recent Activity on Github
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 💪 Opened PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. ❗️ Opened issue [#476](https://github.com/nvim-telescope/telescope.nvim/issues/476) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-4. ❗️ Closed issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-5. 🗣 Commented on [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
+1. ❗️ Closed issue [#59](https://github.com/rustiever/Hello-World/issues/59) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+2. 🎉 Merged PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+3. 💪 Opened PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
+4. ❗️ Opened issue [#476](https://github.com/nvim-telescope/telescope.nvim/issues/476) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+5. ❗️ Closed issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
 <!--END_SECTION:activity-->
