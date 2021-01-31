@@ -31,42 +31,57 @@
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="40" height="40"/>
 
-[![Rustiever's github stats](https://github-readme-stats.vercel.app/api?username=rustiever&theme=algolia&count_private=true&show_icons=true)](https://github.com/rustiever/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustiever&layout=compact&langs_count=10&theme=algolia)](https://github.com/rustiever/)
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 
+<!-- <h2>ℹ️ &nbsp; Github Info</h2> -->
+
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustiever&show_icons=true&locale=en&hide_border=true" alt="rustiever" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustiever&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="rustiever"/>
+</details>
+
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rustiever&" alt="rustiever" /></p>
+</details>
+
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustiever&margin-w=5" alt="rustiever" /></a> </p>
+</details>
+
+<details>
+ <summary><b>💥 Github Activity</b></summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+ <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307662%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 49 Contributions in the Year 2021
- > 
-> 📦 25.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 
 <!--END_SECTION:waka-->
 
-### Recent Activity on Github
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#59](https://github.com/rustiever/Hello-World/issues/59) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-2. 🎉 Merged PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-3. 💪 Opened PR [#84](https://github.com/rustiever/Hello-World/pull/84) in [rustiever/Hello-World](https://github.com/rustiever/Hello-World)
-4. ❗️ Opened issue [#476](https://github.com/nvim-telescope/telescope.nvim/issues/476) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-5. ❗️ Closed issue [#337](https://github.com/nvim-lua/completion-nvim/issues/337) in [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim)
-<!--END_SECTION:activity-->
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
