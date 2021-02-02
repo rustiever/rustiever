@@ -77,7 +77,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 56 Contributions in the Year 2021
+> 🏆 57 Contributions in the Year 2021
  > 
 > 📦 25.8 kB Used in Github's Storage 
  > 
@@ -87,6 +87,18 @@
  > 
 > 🔑 0 Private Repositories  
  > 
+**I Mostly Code in Dart** 
+
+```text
+Dart                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Vim script               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/rustiever/rustiever/master/charts/bar_graph.png) 
