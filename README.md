@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharan</h1>
+<h1 align="center">Hi 👋, I'm <img src="https://www.pinclipart.com/picdir/big/571-5718168_go-gopher-stickers-clipart.png" alt="gopher" width="35" height="35"/> Sharan</h1>
 <h3 align="center">I am a final year computer science engineer and Full stack mobile developer👨‍💻. Interested in making life easier by creating utility tools</h3>
 
 <!-- * 🔭 I’m currently working on [Bridge](https://github.com/rustiever/bridge)
@@ -19,8 +19,6 @@
 
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="Neovim" width="40" height="40"/> 
   
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="40" height="40"/> 
-
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> 
 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -58,22 +56,13 @@
 
 <details>
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustiever&title=Stars,Followers&rank=S,AAA&theme=dracula" alt="rustiever" /></a> </p>
-</details>
-
-<details>
- <summary><b>💥 Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustiever&theme=darkhub&no-bg=true&row=2&column=3" alt="rustiever" /></a> </p>
 </details>
 
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307747%20lines%20of%20code-blue)
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307747%20lines%20of%20code-blue" alt="Lines of code">
 
 **🐱 My Github Data** 
 
@@ -102,12 +91,11 @@ C++                      1 repo              █░░░░░░░░░░�
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/rustiever/rustiever/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
+</details>
 
-<div align="center">
+<div align="center" margin-top="30">
 
-### Show some ❤️ by starring some of the repositories!
-
+<h2><img src="https://gist.githubusercontent.com/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif" alt="gopher" width="60" height="60"/>Show some ❤️ by starring some of the repositories! <img src="https://dwglogo.com/wp-content/uploads/2017/08/muscles-clipart-ghoper.gif" alt="gopher" width="60" height="50"/></h2>
 </div>
+
