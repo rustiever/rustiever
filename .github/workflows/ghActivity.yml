@@ -1,4 +1,4 @@
-name: Update Github Activity In Readme
+name: Update README
 
 on:
   schedule:
@@ -8,12 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updating the Github Activity In Readme Profile'
