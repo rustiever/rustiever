@@ -58,7 +58,7 @@
 
 <details>
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustiever&margin-w=5" alt="rustiever" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustiever&title=Stars,Followers&rank=S,AAA&theme=dracula" alt="rustiever" /></a> </p>
 </details>
 
 <details>
@@ -73,39 +73,8 @@
 <details>
  <summary><b>💻Work Time</b></summary>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-307747%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 61 Contributions in the Year 2021
- > 
-> 📦 25.8 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in Dart** 
-
-```text
-Dart                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Vim script               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rustiever/rustiever/master/charts/bar_graph.png) 
-
-
+ 
 <!--END_SECTION:waka-->
-#
 
 <div align="center">
 
